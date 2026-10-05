@@ -2,5 +2,6 @@
 
 from .clean import drop_outliers, round_all
 from .stats import mean, median
+from .summary import summarize
 
-__all__ = ["drop_outliers", "mean", "median", "round_all"]
+__all__ = ["drop_outliers", "mean", "median", "round_all", "summarize"]

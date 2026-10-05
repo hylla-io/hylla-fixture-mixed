@@ -16,8 +16,8 @@ let line = describe_temp(f);
 
 ## TypeScript
 
-`formatTemp` in [format.ts](../ts/src/format.ts) prints a temperature with one decimal place, for
-example 21.5 C.
+`formatTemp` in [format.ts](../ts/src/format.ts) prints a temperature in whole degrees, for
+example 22 C.
 
 ## Python
 
