@@ -5,7 +5,7 @@ Helpers live in [stats.py](../python/mixed_stats/stats.py) and
 
 ## Mean
 
-`mean` returns the middle value of a list.
+`mean` returns the arithmetic average of a list.
 
 ## Median
 

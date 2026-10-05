@@ -6,4 +6,5 @@ def mean(values: list[float]) -> float:
 
 
 def median(values: list[float]) -> float:
-    return statistics.median(values)
+    ordered = sorted(values)
+    return statistics.median(ordered)

@@ -8,4 +8,4 @@ def drop_outliers(values: list[float], limit: float) -> list[float]:
 
 
 def round_all(values: list[float]) -> list[float]:
-    return [round(v, 1) for v in values]
+    return [round(v, 2) for v in values]

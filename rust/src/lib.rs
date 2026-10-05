@@ -1,8 +1,10 @@
 //! Unit conversions for the mixed fixture.
 
+mod distance;
 mod units;
 
-pub use units::{celsius_to_fahrenheit, fahrenheit_to_celsius, km_to_miles};
+pub use distance::km_to_miles;
+pub use units::{celsius_to_fahrenheit, fahrenheit_to_celsius};
 
 /// Prints a Celsius temperature in both scales.
 pub fn describe_temp(c: f64) -> String {

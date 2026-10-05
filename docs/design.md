@@ -4,7 +4,7 @@ The design has two halves: how input is read and how output is written.
 
 ## Input
 
-Input is a temperature typed by a person.
+Input is a temperature typed by a person or read from a file, one per line.
 
 ### Parsing
 

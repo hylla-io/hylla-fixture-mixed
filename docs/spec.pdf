@@ -22,10 +22,10 @@ BT /F1 11 Tf 72 690 Td (Rounding rules are on page 2.) Tj ET
 endstream
 endobj
 7 0 obj
-<< /Length 113 >>
+<< /Length 107 >>
 stream
 BT /F1 14 Tf 72 720 Td (Rounding) Tj ET
-BT /F1 11 Tf 72 696 Td (Temperatures print with one decimal place.) Tj ET
+BT /F1 11 Tf 72 696 Td (Temperatures print as whole degrees.) Tj ET
 endstream
 endobj
 8 0 obj
@@ -44,10 +44,10 @@ xref
 0000000389 00000 n 
 0000000459 00000 n 
 0000000620 00000 n 
-0000000784 00000 n 
-0000000917 00000 n 
+0000000778 00000 n 
+0000000911 00000 n 
 trailer
 << /Size 10 /Root 1 0 R /Info 9 0 R >>
 startxref
-990
+984
 %%EOF

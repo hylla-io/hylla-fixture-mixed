@@ -5,7 +5,7 @@ export function toFahrenheit(celsius: number): number {
 /** Reads text like "21.5C" or "70F" and returns degrees Celsius. */
 export function parseTemp(text: string): number {
   const trimmed = text.trim();
-  const unit = trimmed.slice(-1);
+  const unit = trimmed.slice(-1).toUpperCase();
   const value = Number(trimmed.slice(0, -1));
   if (unit === "C") {
     return value;

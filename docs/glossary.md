@@ -1,4 +1,4 @@
-Terms used across the docs. Each term has one short definition.
+Terms used across the docs, in alphabetical order. Each term has one short definition.
 
 # Glossary
 
