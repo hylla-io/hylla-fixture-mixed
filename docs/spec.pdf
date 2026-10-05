@@ -1,0 +1,53 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [3 0 R 4 0 R] /Count 2 >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 5 0 R >> >> /Contents 6 0 R /Annots [8 0 R] >>
+endobj
+4 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 5 0 R >> >> /Contents 7 0 R >>
+endobj
+5 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+6 0 obj
+<< /Length 110 >>
+stream
+BT /F1 18 Tf 72 720 Td (Mixed fixture spec) Tj ET
+BT /F1 11 Tf 72 690 Td (Rounding rules are on page 2.) Tj ET
+endstream
+endobj
+7 0 obj
+<< /Length 113 >>
+stream
+BT /F1 14 Tf 72 720 Td (Rounding) Tj ET
+BT /F1 11 Tf 72 696 Td (Temperatures print with one decimal place.) Tj ET
+endstream
+endobj
+8 0 obj
+<< /Type /Annot /Subtype /Link /Rect [72 686 260 702] /Border [0 0 0] /A << /S /GoTo /D [4 0 R /XYZ 0 792 null] >> >>
+endobj
+9 0 obj
+<< /Title (Mixed fixture spec) /Author (Hylla fixture) >>
+endobj
+xref
+0 10
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000121 00000 n 
+0000000263 00000 n 
+0000000389 00000 n 
+0000000459 00000 n 
+0000000620 00000 n 
+0000000784 00000 n 
+0000000917 00000 n 
+trailer
+<< /Size 10 /Root 1 0 R /Info 9 0 R >>
+startxref
+990
+%%EOF
